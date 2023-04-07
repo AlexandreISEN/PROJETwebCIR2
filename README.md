@@ -5,4 +5,4 @@ Marc-Antoine Longatte
 Lucas Poret
 Théo Danel
 Théo Vangheluwe
-Medhi Chafai
+Mehdi Chafai
